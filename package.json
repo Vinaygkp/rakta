@@ -40,9 +40,17 @@
     "dev": "vite",
     "lint": "eslint ."
   },
-  "description": "This app was created using https://getmocha.com. Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).",
+
   "main": "eslint.config.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinaygkp/rakta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vinaygkp/rakta/issues"
+  },
+  "homepage": "https://github.com/Vinaygkp/rakta#readme"
 }
